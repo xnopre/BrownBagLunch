@@ -1073,7 +1073,7 @@ var data = {
                         },
                         {
                             title: "Divers agilité ou développement Java-WEB",
-                            summary: "Tous autres sujets tournant autour de l'agilité, ou du développement WEB en Java : contactez-moi et nous verrons sur quoi nous pourrons échanger !"
+                            summary: "Tous autres sujets tournant autour de l'agilité, du Lean Startup, ou du développement WEB en Java : contactez-moi et nous verrons sur quoi nous pourrons échanger !"
                         }
                     ],
                     tags: ["java", "web", "javascript", "Play", "agilité", "Scum", "ingénierie agile", "tests", "tests unitaires", "TDD", "usine logicielle", "industrialisation" ]
